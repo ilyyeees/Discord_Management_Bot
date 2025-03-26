@@ -1,0 +1,1 @@
+worker: cd g1_admin_bot && python bot.py 
